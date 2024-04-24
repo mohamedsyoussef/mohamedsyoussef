@@ -1,6 +1,7 @@
 # Hi there, I'm Mohamed Shaaban! 👋
+![giphy](https://github.com/mohamedsyoussef/mohamedsyoussef/assets/72705926/0db6d158-dd1a-4c59-a98c-6230676a51ee)
 
-I'm a passionate Flutter developer with a knack for crafting beautiful and functional mobile applications. With [X] years of experience in mobile app development, I've honed my skills in building responsive and scalable Flutter apps that deliver exceptional user experiences.
+I'm a passionate Flutter developer with a knack for crafting beautiful and functional mobile applications.  I've honed my skills in building responsive and scalable Flutter apps that deliver exceptional user experiences.
 
 ## 🚀 About Me
 
