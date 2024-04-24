@@ -23,8 +23,8 @@ I'm a passionate Flutter developer with a knack for crafting beautiful and funct
 ## 📫 Get in Touch
 
 - Email: mohamed.shaaban89@gmail.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/mohamedshaaban1989/)
-- Twitter: [@your_twitter_handle](https://twitter.com/bat2011man)
+- LinkedIn: [mohamedshaaban1989](https://www.linkedin.com/in/mohamedshaaban1989/)
+- Twitter: [bat2011man](https://twitter.com/bat2011man)
 
 Feel free to reach out to me for collaboration, inquiries, or just to say hi!
 
